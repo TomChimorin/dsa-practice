@@ -7,6 +7,7 @@
 |------------|------------|-----------------------------|------------|----------|---------|
 | 2025-04-22 | HackerRank | Solve Me First           | Easy       | Python     | ✅ Done  |
 | 2025-04-22 | HackerRank | Simple Array Sum          | Easy       | Python     | ✅ Done  |
+| 2025-04-22 | HackerRank | Compare The Triplets        | Easy       | Python     | ✅ Done  |
 
 ---
 
