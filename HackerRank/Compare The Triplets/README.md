@@ -32,4 +32,4 @@ To run the solution:
 2. Run the Python file:
 
 ```bash
-python simple_array_sum.py
+python compare_the_triplets.py
