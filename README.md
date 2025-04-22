@@ -6,6 +6,7 @@
 | Date       | Platform   | Problem                     | Difficulty | Language | Status  |
 |------------|------------|-----------------------------|------------|----------|---------|
 | 2025-04-22 | HackerRank | Solve Me First           | Easy       | Python     | ✅ Done  |
+| 2025-04-22 | HackerRank | Simple Array Sum          | Easy       | Python     | ✅ Done  |
 
 ---
 
