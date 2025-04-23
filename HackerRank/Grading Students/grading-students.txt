@@ -1,0 +1,9 @@
+def gradingStudents(grades):
+    # Write your code here
+    for i in range(len(grades)):
+        grade = grades[i]
+        if grade >= 38:              
+            nextMultiple = (grade//5+1)*5  
+            if(nextMultiple - grade < 3):
+                grades[i] = nextMultiple
+    return grades
