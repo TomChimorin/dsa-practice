@@ -3,20 +3,19 @@
 
 ## 🗓️ Progress
 
-| Date       | Platform   | Problem                     | Difficulty | Language | Status  |
-|------------|------------|-----------------------------|------------|----------|---------|
-| 2025-04-22 | HackerRank | Solve Me First           | Easy       | Python     | ✅ Done  |
-| 2025-04-22 | HackerRank | Simple Array Sum          | Easy       | Python     | ✅ Done  |
-| 2025-04-22 | HackerRank | Compare The Triplets        | Easy       | Python     | ✅ Done  |
-| 2025-04-22 | HackerRank | A Very Big Sum              | Easy       | Python     | ✅ Done  |
-| 2025-04-22 | HackerRank | Diagonal Difference         | Easy       | Python     | ✅ Done  |
-| 2025-04-22 | HackerRank | Plus Minus                  | Easy       | Python     | ✅ Done  |
-| 2025-04-22 | HackerRank | Staircase                   | Easy       | Python     | ✅ Done  |
-| 2025-04-22 | HackerRank | Min-Max Sum                 | Easy       | Python     | ✅ Done  |
-| 2025-04-22 | HackerRank | Birthday Cake Candles        | Easy       | Python     | ✅ Done  |
-| 2025-04-22 | HackerRank | Time Conversion        | Easy       | Python     | ✅ Done  |
-| 2025-04-22 | HackerRank | Grading Students        | Easy       | Python     | ✅ Done  |
-| 2025-04-22 | HackerRank | Compare The Tripletssssssssssss        | Easy       | Python     | ✅ Done  |
+| Date       | Platform   | Problem                                 | Difficulty | Language | Status  |
+|------------|------------|-----------------------------------------|------------|----------|---------|
+| 2025-04-22 | HackerRank | Solve Me First                          | Easy       | Python     | ✅ Done  |
+| 2025-04-22 | HackerRank | Simple Array Sum                        | Easy       | Python     | ✅ Done  |
+| 2025-04-22 | HackerRank | Compare The Triplets                    | Easy       | Python     | ✅ Done  |
+| 2025-04-22 | HackerRank | A Very Big Sum                          | Easy       | Python     | ✅ Done  |
+| 2025-04-22 | HackerRank | Diagonal Difference                     | Easy       | Python     | ✅ Done  |
+| 2025-04-22 | HackerRank | Plus Minus                              | Easy       | Python     | ✅ Done  |
+| 2025-04-22 | HackerRank | Staircase                               | Easy       | Python     | ✅ Done  |
+| 2025-04-22 | HackerRank | Min-Max Sum                             | Easy       | Python     | ✅ Done  |
+| 2025-04-22 | HackerRank | Birthday Cake Candle                    | Easy       | Python     | ✅ Done  |
+| 2025-04-22 | HackerRank | Time Conversion                         | Easy       | Python     | ✅ Done  |
+| 2025-04-22 | HackerRank | Grading Students                        | Easy       | Python     | ✅ Done  |
 
 
 ---
