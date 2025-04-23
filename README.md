@@ -16,6 +16,8 @@
 | 2025-04-22 | HackerRank | Birthday Cake Candle                    | Easy       | Python     | ✅ Done  |
 | 2025-04-22 | HackerRank | Time Conversion                         | Easy       | Python     | ✅ Done  |
 | 2025-04-22 | HackerRank | Grading Students                        | Easy       | Python     | ✅ Done  |
+| 2025-04-22 | HackerRank | Apple and Orange                        | Easy       | Python     | ✅ Done  |
+| 2025-04-22 | HackerRank | Number Line Jumps                       | Easy       | Python     | ✅ Done  |
 
 
 ---
