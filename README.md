@@ -18,11 +18,11 @@
 | 2025-04-22 | HackerRank | Grading Students                        | Easy       | Python     | ✅ Done  |
 | 2025-04-22 | HackerRank | Apple and Orange                        | Easy       | Python     | ✅ Done  |
 | 2025-04-22 | HackerRank | Number Line Jumps                       | Easy       | Python     | ✅ Done  |
-| 2025-04-22 | HackerRank | Between Two Sets                        | Easy       | Python     | ✅ Done  |
-| 2025-04-22 | HackerRank | Breaking the Records                    | Easy       | Python     | ✅ Done  |
-| 2025-04-22 | HackerRank | Subarray Division                       | Easy       | Python     | ✅ Done  |
-| 2025-04-22 | HackerRank | Divisible Sum Pairs                     | Easy       | Python     | ✅ Done  |
-| 2025-04-22 | HackerRank | Migratory Birds                         | Easy       | Python     | ✅ Done  |
+| 2025-04-24 | HackerRank | Between Two Sets                        | Easy       | Python     | ✅ Done  |
+| 2025-04-24 | HackerRank | Breaking the Records                    | Easy       | Python     | ✅ Done  |
+| 2025-04-24 | HackerRank | Subarray Division                       | Easy       | Python     | ✅ Done  |
+| 2025-04-24 | HackerRank | Divisible Sum Pairs                     | Easy       | Python     | ✅ Done  |
+| 2025-04-24 | HackerRank | Migratory Birds                         | Easy       | Python     | ✅ Done  |
 
 
 ---
