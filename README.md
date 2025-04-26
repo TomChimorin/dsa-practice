@@ -23,6 +23,7 @@
 | 2025-04-24 | HackerRank | Subarray Division                       | Easy       | Python     | ✅ Done  |
 | 2025-04-24 | HackerRank | Divisible Sum Pairs                     | Easy       | Python     | ✅ Done  |
 | 2025-04-24 | HackerRank | Migratory Birds                         | Easy       | Python     | ✅ Done  |
+| 2025-04-24 | HackerRank | Day of the Programmer                   | Easy       | Python     | ✅ Done  |
 
 
 ---
